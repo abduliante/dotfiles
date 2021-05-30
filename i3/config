@@ -161,6 +161,7 @@ workspace $ws10	output $monitor2
 
 assign [class="Google-chrome"] $ws5
 assign [class="discord"] $ws10
+assign [class="chatterino] $ws5
 for_window [class="Spotify"] move to workspace $ws10
 
 # reload the configuration file
