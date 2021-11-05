@@ -1,4 +1,7 @@
-# Lynx Text Browser FTW!
+# Big thanks to Rob Muhlestein (github.com/rwxrob) for making this config/setup
+
+
+## Lynx Text Browser FTW!
 
 *New and Improved! You can now test this as a [container]:*
 
