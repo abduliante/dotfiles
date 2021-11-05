@@ -9,3 +9,4 @@
 5. feh
 6. compton
 7. neofetch
+8. lynx web browser
