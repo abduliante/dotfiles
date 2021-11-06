@@ -16,7 +16,7 @@ Inspired by Robs setup. I loved his settings which includes:
 
 # How I got this done
 
-On Debian/Ubuntu ``` sudo apt install lynx ```. Then I had to place ``` lynx.cfg ``` and ``` lynx.lss `` into ``` /etc/lynx ```
+On Debian/Ubuntu ``` sudo apt install lynx ```. Then I had to place ``` lynx.cfg ``` and ``` lynx.lss ``` into ``` /etc/lynx ```
 I also placed scripts found in ``` bin ``` folder as well to take advantage of Rob's brilliant way to search the internet.
 
 # Searching aliases
